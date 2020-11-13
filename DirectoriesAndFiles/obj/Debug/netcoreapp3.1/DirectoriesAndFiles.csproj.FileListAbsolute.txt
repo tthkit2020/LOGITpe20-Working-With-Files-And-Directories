@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\netcoreapp3.1\DirectoriesAndFiles.exe
+C:\Users\julia.voronetskaja\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\netcoreapp3.1\DirectoriesAndFiles.deps.json
+C:\Users\julia.voronetskaja\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\netcoreapp3.1\DirectoriesAndFiles.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\netcoreapp3.1\DirectoriesAndFiles.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\netcoreapp3.1\DirectoriesAndFiles.dll
+C:\Users\julia.voronetskaja\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\netcoreapp3.1\DirectoriesAndFiles.pdb
+C:\Users\julia.voronetskaja\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\netcoreapp3.1\DirectoriesAndFiles.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\netcoreapp3.1\DirectoriesAndFiles.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\netcoreapp3.1\DirectoriesAndFiles.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\netcoreapp3.1\DirectoriesAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\netcoreapp3.1\DirectoriesAndFiles.dll
+C:\Users\julia.voronetskaja\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\netcoreapp3.1\DirectoriesAndFiles.pdb
+C:\Users\julia.voronetskaja\source\repos\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\netcoreapp3.1\DirectoriesAndFiles.genruntimeconfig.cache
